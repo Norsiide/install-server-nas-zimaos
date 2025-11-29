@@ -1,10 +1,9 @@
-<p align="center"><img src="https://wiki.debian.org/FrontPage?action=AttachFile&do=get&target=11-bullseye-wiki-banner-04.png" width="auto" alt="norsiide"></p>
+<p align="center"><img src="https://github.com/Norsiide/install-openmediavault/blob/main/img/zimaos.png" width="auto" alt="norsiide"></p>
 
 # Installation d’un homelab sous zimaos
 
 * **OpenMediaVault** est un système de type NAS (Network Attached Storage) open source, basé sur Debian, conçu pour être simple d’utilisation et accessible à tous.
 
-<p align="center"><img src="https://github.com/Norsiide/install-openmediavault/blob/main/img/openmediavault.png" alt="openmediavault"></p>
 
 > **PS :** Cette configuration est basée sur mon propre serveur, que je partage publiquement afin de vous aider dans l’installation. Certaines informations peuvent manquer ; n’hésitez pas à me contacter pour que je les ajoute et facilite ainsi l’installation pour les prochains utilisateurs.
 
