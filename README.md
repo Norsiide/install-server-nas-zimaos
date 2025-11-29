@@ -137,15 +137,6 @@ http://192.168.x.x
 (donné par ZimaOS)
 
 Tu arrives sur l’interface principale.
-
-3. tu doit reglé ton interface reseau 
-
-* IP : 192.168.1.100 (l'adresse ip que tu souhaite utilise pour le serveur)
-* Masque de sous-réseau : 255.255.255.0
-* Adresse de la passerelle : 192.168.1.1 (ip de votre routeur)
-* DNS : 1.1.1.1 (vous pouvez choisir votre serveur dns exemple metre adguard)
-
-<p align="center"><img src="https://github.com/Norsiide/install-server-nas-zimaos/blob/main/img/ethernet.png" width="300" alt="norsiide"></p>
 ---
 
 # 7️⃣ Configurer le NAS
@@ -164,7 +155,16 @@ Tu arrives sur l’interface principale.
 * Amis
 * Accès limité aux dossiers
 
-### ☁️ 3. Installer des apps
+### ☁️ 3. tu doit reglé ton interface reseau (pour que l'ip de change pas au demmarage du serveur)
+
+* IP : 192.168.1.100 (l'adresse ip que tu souhaite utilise pour le serveur)
+* Masque de sous-réseau : 255.255.255.0
+* Adresse de la passerelle : 192.168.1.1 (ip de votre routeur)
+* DNS : 1.1.1.1 (vous pouvez choisir votre serveur dns exemple metre adguard)
+
+<p align="center"><img src="https://github.com/Norsiide/install-server-nas-zimaos/blob/main/img/ethernet.png" width="300" alt="norsiide"></p>
+
+### ☁️ 4. Installer des apps
 
 Tu as un **App Center** (type Store) pour ajouter :
 
