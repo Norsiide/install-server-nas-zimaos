@@ -1,13 +1,11 @@
 <p align="center"><img src="https://github.com/Norsiide/install-server-nas-zimaos/blob/main/img/zimaos.png" width="auto" alt="norsiide"></p>
 
-# Installation d’un homelab sous zimaos
+# Installation d’un homelab sous ZimaOS
 
-* **OpenMediaVault** est un système de type NAS (Network Attached Storage) open source, basé sur Debian, conçu pour être simple d’utilisation et accessible à tous.
+* **ZimZimaOSaos** est un système de type NAS (Network Attached Storage) open source, basé sur Debian, conçu pour être simple d’utilisation et accessible à tous.
 
 
 > **PS :** Cette configuration est basée sur mon propre serveur, que je partage publiquement afin de vous aider dans l’installation. Certaines informations peuvent manquer ; n’hésitez pas à me contacter pour que je les ajoute et facilite ainsi l’installation pour les prochains utilisateurs.
-
-Les tutoriels concernant les conteneurs Docker Compose seront disponibles dans des dossiers dédiés au sein de ce guide.
 
 ---
 
@@ -15,7 +13,7 @@ Les tutoriels concernant les conteneurs Docker Compose seront disponibles dans d
 
 * **Discord** : [Rejoins notre communauté](https://discord.gg/EV3fAhFZJT)
 * **Site web** : [Plus d'informations](https://norsiide.be)
-* **OpenMediaVault** : [Lien vers OpenMediaVault](https://www.openmediavault.org/)
+* **ZimaOS** : [Lien vers ZimaOS](https://www.zimaspace.com/zimaos)
 
 ---
 
