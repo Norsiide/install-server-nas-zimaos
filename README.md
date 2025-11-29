@@ -162,7 +162,7 @@ Tu arrives sur l’interface principale.
 * Adresse de la passerelle : 192.168.1.1 (ip de votre routeur)
 * DNS : 1.1.1.1 (vous pouvez choisir votre serveur dns exemple metre adguard)
 
-<p align="center"><img src="https://github.com/Norsiide/install-server-nas-zimaos/blob/main/img/ethernet.png" width="300" alt="norsiide"></p>
+<p align="center"><img src="https://github.com/Norsiide/install-server-nas-zimaos/blob/main/img/ethernet.png" width="auto" alt="norsiide"></p>
 
 ### ☁️ 4. Installer des apps
 
