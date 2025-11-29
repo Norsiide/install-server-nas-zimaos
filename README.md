@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Norsiide/install-server-nas-openmediavault/blob/main/img/zimaos.png" width="auto" alt="norsiide"></p>
+<p align="center"><img src="https://github.com/Norsiide/install-server-nas-zimaos/tree/main/img/zimaos.png" width="auto" alt="norsiide"></p>
 
 # Installation d’un homelab sous zimaos
 
